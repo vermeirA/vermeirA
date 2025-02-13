@@ -1,5 +1,5 @@
 # 💫 About Me:
-Bachelor audiovisual design with a special interest in Development.<br>Currently studying IT programming @hogent.<br>Looking to further broaden my IT knowlegde and abilities.<br>Skilled at web development, digital animation, databases, video editing.<br>Currently working on full-stack-development (c#) , javascript, .net.
+Bachelor audiovisual design with a special interest in Development.<br>Currently studying IT programming @hogent.<br>Looking to further broaden my IT knowlegde and abilities.
 
 
 ## 🌐 Socials:
