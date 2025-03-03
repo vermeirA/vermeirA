@@ -1,5 +1,5 @@
 # 💫 About Me:
-Bachelor audiovisual design with a special interest in Development.<br>Currently studying IT programming @hogent.<br>Looking to further broaden my IT knowlegde and abilities.
+Bachelor graphical and digital media with a special interest in Development.<br>Currently studying IT programming @hogent.<br>Looking to further broaden my IT knowlegde and abilities.
 
 
 ## 🌐 Socials:
