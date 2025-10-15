@@ -1,6 +1,6 @@
 # Hi there! I’m vermeirA
-# Profession/Current Role: R&D Offboard software engineer/developer
-# Top Skills: .NET, React.ts, Node.js, php
+💼 Profession/Current Role: R&D Offboard software engineer/developer
+💻 Top Skills: .NET, React.ts, Node.js, php
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/aster-vermeir) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:astervermeir@gmail.com) 
